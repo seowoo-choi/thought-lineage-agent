@@ -95,7 +95,8 @@ window.addEventListener('resize',fit);requestAnimationFrame(()=>{fit();if(anchor
 
 
 STATIC_DEMO_NOTICE = (
-    '<div class="hint" id="static-demo-notice" style="top:46px">'
+    '<div class="hint" id="static-demo-notice" '
+    'style="top:auto;left:auto;right:16px;bottom:16px">'
     "정적 데모 · 노드 클릭 후 다시 분석·확장하는 기능은 로컬 서버 모드(README)에서만 제공됩니다"
     "</div>"
 )
