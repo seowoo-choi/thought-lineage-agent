@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+*.egg-info/
+build/
+dist/
+tmp*/
+
+# Generated failures and temporary runs
+artifacts/codex-error.log
+artifacts/*-status.json
+artifacts/*-audit.json
+artifacts/acceptance-report.json
+artifacts/v*-smoke*
+artifacts/resume-fixture-check*
+
+# Leftover test scratch directories in the repo root
+tmp*/

@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "literary-influence-atlas"
+version = "0.1.0"
+description = "Offline literary influence atlas generated through an authenticated Codex CLI"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.scripts]
+book-atlas = "src.cli:main"
+
+[tool.setuptools]
+packages = ["src"]
+py-modules = ["thought_lineage_svg_renderer"]

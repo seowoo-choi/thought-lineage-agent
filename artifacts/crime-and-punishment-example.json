@@ -1,0 +1,932 @@
+{
+  "meta": {
+    "title": "죄와 벌",
+    "author": "표도르 도스토옙스키",
+    "anchor_id": "crime-and-punishment",
+    "seed": 1866,
+    "started_at": "2026-07-16T00:00:00+09:00",
+    "execution": {
+      "calls": [
+        {
+          "adapter": "codex_cli",
+          "started_at": 1784159424.745676,
+          "paid_api": false,
+          "credential_path": "chatgpt_plus_session",
+          "completed": true,
+          "version": "codex-cli 0.144.4",
+          "returncode": 0,
+          "finished_at": 1784159662.833895
+        }
+      ],
+      "elapsed_seconds": 238.09
+    },
+    "sample_note": "2026-07-16 one-round live-research sample; run the README command for recursive expansion."
+  },
+  "status": "complete",
+  "nodes": [
+    {
+      "id": "crime-and-punishment",
+      "label": "죄와 벌",
+      "kind": "book",
+      "era": "1866",
+      "side": "anchor",
+      "summary": "표도르 도스토옙스키의 소설. 살인, 죄책감, 사상적 자기기만, 고통과 부활을 결합한다."
+    },
+    {
+      "id": "existentialism",
+      "label": "Existentialism",
+      "kind": "movement",
+      "era": "20세기",
+      "side": "later",
+      "summary": "자유, 책임, 부조리, 신 없는 도덕이라는 도스토옙스키적 문제를 계승한 철학·문학 운동이다."
+    },
+    {
+      "id": "foe",
+      "label": "Foe",
+      "kind": "book",
+      "era": "1986",
+      "side": "later",
+      "summary": "J. M. 쿳시의 소설로 『죄와 벌』의 결정적 장면들을 구조적으로 변용한다."
+    },
+    {
+      "id": "lafcadios-adventures",
+      "label": "Lafcadio’s Adventures",
+      "kind": "book",
+      "era": "1914",
+      "side": "later",
+      "summary": "앙드레 지드가 무동기적 범죄를 통해 자유의 한계를 시험한 소설이다."
+    },
+    {
+      "id": "nietzsche",
+      "label": "Friedrich Nietzsche",
+      "kind": "thinker",
+      "era": "1844–1900",
+      "side": "later",
+      "summary": "도스토옙스키의 범죄 심리와 허무주의 분석을 읽고 자신의 도덕·형벌 비판과 대화시켰다."
+    },
+    {
+      "id": "the-stranger",
+      "label": "The Stranger",
+      "kind": "book",
+      "era": "1942",
+      "side": "later",
+      "summary": "알베르 카뮈가 무동기적 살인, 재판, 책임과 부조리를 재구성한 소설이다."
+    },
+    {
+      "id": "balzac",
+      "label": "Honoré de Balzac",
+      "kind": "author",
+      "era": "1799–1850",
+      "side": "prior",
+      "summary": "도스토옙스키가 직접 번역했으며 도시, 돈, 야망의 사실주의적 소설 세계에 영향을 주었다."
+    },
+    {
+      "id": "chernyshevsky",
+      "label": "Nikolai Chernyshevsky",
+      "kind": "thinker",
+      "era": "1828–1889",
+      "side": "prior",
+      "summary": "러시아 급진주의와 합리적 이기주의를 체계화하여 도스토옙스키의 주요 논쟁 상대가 되었다."
+    },
+    {
+      "id": "eugenie-grandet",
+      "label": "Eugénie Grandet",
+      "kind": "book",
+      "era": "1833",
+      "side": "prior",
+      "summary": "도스토옙스키가 러시아어로 번역하면서 발자크의 금전·탐욕·가족 갈등을 깊이 흡수한 작품이다."
+    },
+    {
+      "id": "genesis",
+      "label": "창세기",
+      "kind": "scripture",
+      "era": "고대",
+      "side": "prior",
+      "summary": "카인과 아벨의 원초적 살인 서사가 소설의 살인·추방·표지 모티프에 선행한다."
+    },
+    {
+      "id": "gogol",
+      "label": "Nikolai Gogol",
+      "kind": "author",
+      "era": "1809–1852",
+      "side": "prior",
+      "summary": "도시의 빈곤, 관료제, 그로테스크를 다룬 러시아 자연파의 결정적 선행자다."
+    },
+    {
+      "id": "gospel-of-john",
+      "label": "요한복음",
+      "kind": "scripture",
+      "era": "1세기",
+      "side": "prior",
+      "summary": "특히 나사로의 부활 이야기가 소냐의 낭독과 라스콜니코프의 재생 구조를 형성한다."
+    },
+    {
+      "id": "hamlet",
+      "label": "Hamlet",
+      "kind": "book",
+      "era": "c.1600",
+      "side": "prior",
+      "summary": "분열된 의식, 지연된 행위, 수행된 광기라는 모델이 라스콜니코프와 비교된다."
+    },
+    {
+      "id": "house-of-the-dead",
+      "label": "The House of the Dead",
+      "kind": "book",
+      "era": "1861–1862",
+      "side": "prior",
+      "summary": "도스토옙스키의 유형지 경험을 문학화해 범죄자, 형벌, 고통에 관한 후속 소설을 준비했다."
+    },
+    {
+      "id": "napoleon",
+      "label": "Napoleon Bonaparte",
+      "kind": "thinker",
+      "era": "1769–1821",
+      "side": "prior",
+      "summary": "법을 넘어 역사를 만드는 위인이라는 신화가 라스콜니코프 이론의 명시적 모델이다."
+    },
+    {
+      "id": "natural-school",
+      "label": "Russian Natural School",
+      "kind": "movement",
+      "era": "1840년대",
+      "side": "prior",
+      "summary": "도시 빈민과 사회적 환경을 사실적으로 묘사한 도스토옙스키 초기 문학의 운동적 기반이다."
+    },
+    {
+      "id": "new-testament",
+      "label": "신약성서",
+      "kind": "scripture",
+      "era": "1–2세기",
+      "side": "prior",
+      "summary": "십자가, 회개, 사랑과 부활이라는 소설의 구원 문법을 제공한 상위 경전 전통이다."
+    },
+    {
+      "id": "nihilism",
+      "label": "Russian Nihilism",
+      "kind": "movement",
+      "era": "1860년대",
+      "side": "prior",
+      "summary": "권위와 전통도덕을 거부한 급진적 지적 환경으로 라스콜니코프의 이념을 둘러싼 논쟁장이다."
+    },
+    {
+      "id": "pushkin",
+      "label": "Alexander Pushkin",
+      "kind": "author",
+      "era": "1799–1837",
+      "side": "prior",
+      "summary": "도스토옙스키의 페테르부르크 표상과 나폴레옹적 개인 비판에 중요한 러시아 선행자다."
+    },
+    {
+      "id": "queen-of-spades",
+      "label": "The Queen of Spades",
+      "kind": "book",
+      "era": "1834",
+      "side": "prior",
+      "summary": "페테르부르크에서 강박적 계산과 초월 욕망이 파국으로 이어지는 푸시킨의 소설이다."
+    },
+    {
+      "id": "revelation",
+      "label": "요한계시록",
+      "kind": "scripture",
+      "era": "1세기 말",
+      "side": "prior",
+      "summary": "새 예루살렘과 종말론적 심상이 소설의 종교적·유토피아적 언어에 유입된다."
+    },
+    {
+      "id": "schiller",
+      "label": "Friedrich Schiller",
+      "kind": "author",
+      "era": "1759–1805",
+      "side": "prior",
+      "summary": "도스토옙스키에게 중요한 독일 작가로, 숭고·범죄·자유의 문제를 제공했다."
+    },
+    {
+      "id": "shakespeare",
+      "label": "William Shakespeare",
+      "kind": "author",
+      "era": "1564–1616",
+      "side": "prior",
+      "summary": "도스토옙스키가 번역하고 지속적으로 대화한 비극·심리극 전통의 핵심 작가다."
+    },
+    {
+      "id": "the-overcoat",
+      "label": "The Overcoat",
+      "kind": "book",
+      "era": "1842",
+      "side": "prior",
+      "summary": "굴욕받는 하급 도시인의 삶을 통해 도스토옙스키의 페테르부르크 사회소설을 예비했다."
+    },
+    {
+      "id": "the-robbers",
+      "label": "The Robbers",
+      "kind": "book",
+      "era": "1781",
+      "side": "prior",
+      "summary": "법을 넘어선 이념적 범죄자와 범죄 심리의 모델을 제공한 실러의 희곡이다."
+    },
+    {
+      "id": "utilitarianism",
+      "label": "Utilitarianism",
+      "kind": "movement",
+      "era": "18–19세기",
+      "side": "prior",
+      "summary": "다수의 이익을 위한 계산이라는 논리를 제공했으며 소설은 그 살인적 변형을 비판한다."
+    },
+    {
+      "id": "what-is-to-be-done",
+      "label": "What Is to Be Done?",
+      "kind": "book",
+      "era": "1863",
+      "side": "prior",
+      "summary": "합리적 이기주의와 새로운 인간상을 소설화해 도스토옙스키의 반응을 촉발했다."
+    }
+  ],
+  "edges": [
+    {
+      "id": "e30",
+      "source": "crime-and-punishment",
+      "target": "foe",
+      "direction": "source_to_target",
+      "relation_type": "explicit",
+      "explanation": "『포』는 『죄와 벌』의 핵심 장면들을 직접 암시하며 그 구조를 이용해 결말과 소설 장르 자체를 재검토한다.",
+      "evidence_summary": "옥스퍼드 학술지 논문은 『포』의 『죄와 벌』 암시를 식별하고 도스토옙스키 소설이 디포 작품들보다 더 큰 구조적 중요성을 갖는다고 논증한다.",
+      "material_title": "‘An Author I have not Read’: Coetzee's Foe, Dostoevsky's Crime and Punishment, and the Problem of the Novel",
+      "source_url": "https://academic.oup.com/res/article-abstract/57/230/273/1538919",
+      "confidence": "A",
+      "importance": 10,
+      "sources": [
+        {
+          "url": "https://academic.oup.com/res/article-abstract/57/230/273/1538919",
+          "title": "‘An Author I have not Read’: Coetzee's Foe, Dostoevsky's Crime and Punishment, and the Problem of the Novel",
+          "publisher": "Oxford University Press",
+          "grade": "A",
+          "support": "『포』의 결정적 『죄와 벌』 암시와 구조적 의존성을 직접 논증한다."
+        }
+      ]
+    },
+    {
+      "id": "e23",
+      "source": "crime-and-punishment",
+      "target": "nietzsche",
+      "direction": "source_to_target",
+      "relation_type": "explicit",
+      "explanation": "니체는 『죄와 벌』을 포함한 도스토옙스키 작품을 알고 있었고, 그 범죄 심리와 허무주의 분석을 자신의 도덕 비판에 흡수했다.",
+      "evidence_summary": "노스웨스턴 연구는 니체가 도스토옙스키의 관련성을 직접 인정했다고 밝히며, 비평판 연구는 그가 『죄와 벌』을 실제로 알고 있었다고 문서화한다.",
+      "material_title": "Nietzsche and Dostoevsky",
+      "source_url": "https://nupress.northwestern.edu/9780810133952/nietzsche-and-dostoevsky/",
+      "confidence": "A",
+      "importance": 10,
+      "sources": [
+        {
+          "url": "https://nupress.northwestern.edu/9780810133952/nietzsche-and-dostoevsky/",
+          "title": "Nietzsche and Dostoevsky",
+          "publisher": "Northwestern University Press",
+          "grade": "A",
+          "support": "니체의 명시적 인정과 허무주의·도덕·비극에 대한 도스토옙스키의 영향을 설명한다."
+        },
+        {
+          "url": "https://rprt.northwestern.edu/documents/research-scholar-articles/sineokaya-article-4.pdf",
+          "title": "The prohibited Nietzsche: anti-Nietzscheanism in Soviet Russia",
+          "publisher": "Northwestern University",
+          "grade": "A",
+          "support": "비평판 자료를 근거로 니체가 『죄와 벌』을 포함한 도스토옙스키의 여러 소설을 알고 있었다고 밝힌다."
+        }
+      ]
+    },
+    {
+      "id": "e04",
+      "source": "gospel-of-john",
+      "target": "crime-and-punishment",
+      "direction": "source_to_target",
+      "relation_type": "explicit",
+      "explanation": "소냐가 요한복음 11장의 나사로 부활을 직접 읽으며, 그 장면은 라스콜니코프의 죽음 같은 고립과 재생 가능성을 조직한다.",
+      "evidence_summary": "두 대학·학술지 연구가 나사로 본문을 소설의 핵심 상호텍스트이자 전체 구조의 열쇠로 각각 규정한다.",
+      "material_title": "The Ressurrection of Lazarus as a hermeneutical key to the novel Crime and Punishment",
+      "source_url": "https://ojs.cuni.cz/paideia/article/view/1389",
+      "confidence": "A",
+      "importance": 10,
+      "sources": [
+        {
+          "url": "https://ojs.cuni.cz/paideia/article/view/1389",
+          "title": "The Ressurrection of Lazarus as a hermeneutical key to the novel Crime and Punishment",
+          "publisher": "Charles University",
+          "grade": "A",
+          "support": "요한복음 11장이 소설의 기본 구조를 형성한다고 논증한다."
+        },
+        {
+          "url": "https://revistaseug.ugr.es/index.php/meslav/article/view/17590",
+          "title": "Images of life and death as a central theme to Crime and Punishment",
+          "publisher": "University of Granada",
+          "grade": "A",
+          "support": "나사로 본문을 중심으로 소설의 죽음·생명·부활 상호텍스트를 분석한다."
+        }
+      ]
+    },
+    {
+      "id": "e21",
+      "source": "napoleon",
+      "target": "crime-and-punishment",
+      "direction": "source_to_target",
+      "relation_type": "explicit",
+      "explanation": "라스콜니코프는 나폴레옹처럼 비범한 인간은 보통의 도덕법을 넘어설 수 있다고 명시적으로 주장한다.",
+      "evidence_summary": "전문 논문은 소설이 나폴레옹 ‘위인’ 신화를 직접 수용한 뒤 파괴적으로 비판한다고 논증한다.",
+      "material_title": "Crime and Punishment, Napoleon, and the Great Man Theory",
+      "source_url": "https://dostoevsky-studies.dlls.univr.it/article/view/961",
+      "confidence": "A",
+      "importance": 10,
+      "sources": [
+        {
+          "url": "https://dostoevsky-studies.dlls.univr.it/article/view/961",
+          "title": "Crime and Punishment, Napoleon, and the Great Man Theory",
+          "publisher": "Dostoevsky Studies / University of Verona",
+          "grade": "A",
+          "support": "라스콜니코프의 명시적 나폴레옹 숭배와 서술자의 반어적 해체를 분석한다."
+        }
+      ]
+    },
+    {
+      "id": "e20",
+      "source": "nihilism",
+      "target": "crime-and-punishment",
+      "direction": "source_to_target",
+      "relation_type": "critical_response",
+      "explanation": "『죄와 벌』은 전통도덕을 효용·환경·자기주권으로 대체하려는 급진적 담론을 라스콜니코프의 실패를 통해 시험하고 반박한다.",
+      "evidence_summary": "옥스퍼드 케이스북과 BYU 연구가 소설을 당대 급진사상 및 러시아 허무주의에 대한 지속적 비판으로 각각 분석한다.",
+      "material_title": "Fyodor Dostoevsky’s Crime and Punishment",
+      "source_url": "https://academic.oup.com/book/48713",
+      "confidence": "A",
+      "importance": 10,
+      "sources": [
+        {
+          "url": "https://academic.oup.com/book/48713",
+          "title": "Fyodor Dostoevsky’s Crime and Punishment",
+          "publisher": "Oxford University Press",
+          "grade": "A",
+          "support": "소설의 철학적 내용과 동시대 급진사상의 관계를 전문적으로 다룬다."
+        },
+        {
+          "url": "https://byustudies.byu.edu/article/dostoevsky-on-crime-and-revolution-a-study-in-russian-nihilism",
+          "title": "Dostoevsky on Crime and Revolution: A Study in Russian Nihilism",
+          "publisher": "Brigham Young University",
+          "grade": "B",
+          "support": "소설을 인간 책임을 약화하는 허무주의·환경결정론에 대한 공격으로 해석한다."
+        }
+      ]
+    },
+    {
+      "id": "e24",
+      "source": "crime-and-punishment",
+      "target": "existentialism",
+      "direction": "source_to_target",
+      "relation_type": "movement",
+      "explanation": "자유, 책임, 신 없는 세계의 도덕과 자기창조라는 소설의 문제들은 후대 실존주의의 핵심 의제로 계승되었다.",
+      "evidence_summary": "노스웨스턴대 출판 연구는 도스토옙스키와 니체를 실존주의 사상의 토대 구축자로 평가하며, 인디애나대 연구는 『죄와 벌』에서 시작되는 새로운 심리·사상 소설의 계보를 설명한다.",
+      "material_title": "Nietzsche and Dostoevsky",
+      "source_url": "https://nupress.northwestern.edu/9780810133952/nietzsche-and-dostoevsky/",
+      "confidence": "A",
+      "importance": 9,
+      "sources": [
+        {
+          "url": "https://nupress.northwestern.edu/9780810133952/nietzsche-and-dostoevsky/",
+          "title": "Nietzsche and Dostoevsky",
+          "publisher": "Northwestern University Press",
+          "grade": "A",
+          "support": "두 작가가 실존주의 사상의 상당 부분을 위한 토대를 마련했다고 명시한다."
+        },
+        {
+          "url": "https://publish.iupress.indiana.edu/read/introduction-to-russian-realism-pushkin-gogol-dostoevsky-tolstoy-chekhov-sholokhov/section/366bba45-f583-4bba-8872-f9668412e4f6",
+          "title": "Dostoevsky—A Realist in the Higher Sense",
+          "publisher": "Indiana University Press",
+          "grade": "A",
+          "support": "『죄와 벌』에서 본격화된 심리적·철학적 소설 혁신을 설명한다."
+        }
+      ]
+    },
+    {
+      "id": "e27",
+      "source": "crime-and-punishment",
+      "target": "the-stranger",
+      "direction": "source_to_target",
+      "relation_type": "adaptation",
+      "explanation": "카뮈는 라스콜니코프의 살인·재판·책임 문제를 부조리와 무동기성의 문법으로 재구성했다.",
+      "evidence_summary": "버지니아대 연구는 『죄와 벌』의 범죄 처리가 『이방인』에 영감을 주었다고 직접 밝힌다.",
+      "material_title": "Freedom and the unmotivated crime in Dostoevsky, Gide and Camus",
+      "source_url": "https://libraetd.lib.virginia.edu/public_view/9306t0595",
+      "confidence": "A",
+      "importance": 9,
+      "sources": [
+        {
+          "url": "https://libraetd.lib.virginia.edu/public_view/9306t0595",
+          "title": "Freedom and the unmotivated crime in Dostoevsky, Gide and Camus",
+          "publisher": "University of Virginia",
+          "grade": "B",
+          "support": "도스토옙스키의 무동기적 범죄 처리가 카뮈의 『이방인』에 영감을 주었다고 명시한다."
+        }
+      ]
+    },
+    {
+      "id": "e22",
+      "source": "house-of-the-dead",
+      "target": "crime-and-punishment",
+      "direction": "source_to_target",
+      "relation_type": "adaptation",
+      "explanation": "도스토옙스키는 시베리아 유형지에서 관찰한 범죄자와 형벌 경험을 『죽음의 집의 기록』에 먼저 형상화한 뒤 『죄와 벌』의 감옥·속죄 서사로 발전시켰다.",
+      "evidence_summary": "케임브리지 연구는 작가의 유형 경험이 형벌 논쟁과 후기 대작 집필을 준비했다고 설명한다.",
+      "material_title": "Punishment and crime",
+      "source_url": "https://www.cambridge.org/core/books/dostoevsky-in-context/punishment-and-crime/62315DC8B2DEFDB627E39E5EDBD7D2EE",
+      "confidence": "A",
+      "importance": 9,
+      "sources": [
+        {
+          "url": "https://www.cambridge.org/core/books/dostoevsky-in-context/punishment-and-crime/62315DC8B2DEFDB627E39E5EDBD7D2EE",
+          "title": "Punishment and crime",
+          "publisher": "Cambridge University Press",
+          "grade": "A",
+          "support": "도스토옙스키의 유형·감옥 경험이 범죄와 형벌에 대한 후기 작업의 직접적 준비였음을 문서화한다."
+        }
+      ]
+    },
+    {
+      "id": "e14",
+      "source": "natural-school",
+      "target": "crime-and-punishment",
+      "direction": "source_to_target",
+      "relation_type": "movement",
+      "explanation": "자연파의 도시 빈곤·환경·사회적 유형 묘사는 『죄와 벌』의 페테르부르크 세계를 만들었지만, 소설은 환경결정론을 넘어 개인 책임을 주장한다.",
+      "evidence_summary": "옥스퍼드 케이스북은 자연파와 도시 주제를 직접 지목하며, BYU 연구는 환경이 범죄의 유일한 원인이라는 견해에 대한 소설의 반박을 설명한다.",
+      "material_title": "Fyodor Dostoevsky’s Crime and Punishment",
+      "source_url": "https://academic.oup.com/book/48713",
+      "confidence": "A",
+      "importance": 9,
+      "sources": [
+        {
+          "url": "https://academic.oup.com/book/48713",
+          "title": "Fyodor Dostoevsky’s Crime and Punishment",
+          "publisher": "Oxford University Press",
+          "grade": "A",
+          "support": "소설의 자연파적 뿌리와 도시 강조를 명시한다."
+        },
+        {
+          "url": "https://byustudies.byu.edu/article/dostoevsky-on-crime-and-revolution-a-study-in-russian-nihilism",
+          "title": "Dostoevsky on Crime and Revolution: A Study in Russian Nihilism",
+          "publisher": "Brigham Young University",
+          "grade": "B",
+          "support": "도스토옙스키가 환경결정론적 범죄 설명을 비판했다고 논증한다."
+        }
+      ]
+    },
+    {
+      "id": "e09",
+      "source": "the-robbers",
+      "target": "crime-and-punishment",
+      "direction": "source_to_target",
+      "relation_type": "adaptation",
+      "explanation": "도스토옙스키는 법 밖에 선 이념적 범죄자와 내면화된 범죄 심리를 『군도』에서 계승하면서 기독교적 비판으로 바꾼다.",
+      "evidence_summary": "전문 논문은 『군도』의 범죄 심리, 이념적 주인공, 숭고의 미학이 『죄와 벌』에 미친 영향을 구체적으로 추적한다.",
+      "material_title": "Schiller’s Motifs in Crime and Punishment by Fyodor Dostoevsky",
+      "source_url": "https://dostmirkult.ru/en/issues/107-no-2-2023/1036-schiller-s-motifs-in-crime-and-punishment-by-fyodor-dostoevsky",
+      "confidence": "A",
+      "importance": 9,
+      "sources": [
+        {
+          "url": "https://dostmirkult.ru/en/issues/107-no-2-2023/1036-schiller-s-motifs-in-crime-and-punishment-by-fyodor-dostoevsky",
+          "title": "Schiller’s Motifs in Crime and Punishment by Fyodor Dostoevsky",
+          "publisher": "Dostoevsky and World Culture",
+          "grade": "A",
+          "support": "『군도』의 이념·인간학·범죄 심리가 소설에서 창조적으로 발전·논박된다고 논증한다."
+        }
+      ]
+    },
+    {
+      "id": "e25",
+      "source": "crime-and-punishment",
+      "target": "lafcadios-adventures",
+      "direction": "source_to_target",
+      "relation_type": "adaptation",
+      "explanation": "지드는 라스콜니코프의 범죄를 ‘무동기적 행위’의 문제로 다시 써서 개인 자유의 한계를 시험했다.",
+      "evidence_summary": "버지니아대 연구는 『죄와 벌』의 무동기적 범죄 처리가 『라프카디오의 모험』에 영감을 주었다고 명시한다.",
+      "material_title": "Freedom and the unmotivated crime in Dostoevsky, Gide and Camus",
+      "source_url": "https://libraetd.lib.virginia.edu/public_view/9306t0595",
+      "confidence": "A",
+      "importance": 8,
+      "sources": [
+        {
+          "url": "https://libraetd.lib.virginia.edu/public_view/9306t0595",
+          "title": "Freedom and the unmotivated crime in Dostoevsky, Gide and Camus",
+          "publisher": "University of Virginia",
+          "grade": "B",
+          "support": "『죄와 벌』이 지드의 『라프카디오의 모험』에 영감을 주었다고 직접 결론짓는다."
+        }
+      ]
+    },
+    {
+      "id": "e01",
+      "source": "new-testament",
+      "target": "gospel-of-john",
+      "direction": "source_to_target",
+      "relation_type": "citation",
+      "explanation": "요한복음은 신약성서 정경에 속하며, 『죄와 벌』이 활용하는 나사로 부활 서사의 직접 문헌적 원천이다.",
+      "evidence_summary": "Charles University 연구는 요한복음 11장과 『죄와 벌』의 구체적 상호텍스트 관계를 분석한다.",
+      "material_title": "The Ressurrection of Lazarus as a hermeneutical key to the novel Crime and Punishment",
+      "source_url": "https://ojs.cuni.cz/paideia/article/view/1389",
+      "confidence": "A",
+      "importance": 8,
+      "sources": [
+        {
+          "url": "https://ojs.cuni.cz/paideia/article/view/1389",
+          "title": "The Ressurrection of Lazarus as a hermeneutical key to the novel Crime and Punishment",
+          "publisher": "Charles University",
+          "grade": "A",
+          "support": "요한복음 11장이 소설 전체의 기본 구조이자 해석학적 열쇠라고 논증한다."
+        }
+      ]
+    },
+    {
+      "id": "e15",
+      "source": "balzac",
+      "target": "eugenie-grandet",
+      "direction": "source_to_target",
+      "relation_type": "explicit",
+      "explanation": "발자크가 『외제니 그랑데』를 썼고 도스토옙스키는 이를 자신의 첫 출판 번역으로 러시아어화했다.",
+      "evidence_summary": "학술 출판사 연구는 이 번역을 도스토옙스키의 첫 출판 작업이자 발자크 영향의 출발점으로 규정한다.",
+      "material_title": "Dostoevsky as a Translator of Balzac",
+      "source_url": "https://www.degruyterbrill.com/document/doi/10.1515/9781644697801/html",
+      "confidence": "A",
+      "importance": 7,
+      "sources": [
+        {
+          "url": "https://www.degruyterbrill.com/document/doi/10.1515/9781644697801/html",
+          "title": "Dostoevsky as a Translator of Balzac",
+          "publisher": "De Gruyter Brill",
+          "grade": "A",
+          "support": "도스토옙스키의 『외제니 그랑데』 번역과 이후 창작에 남은 발자크의 영향을 분석한다."
+        }
+      ]
+    },
+    {
+      "id": "e18",
+      "source": "chernyshevsky",
+      "target": "what-is-to-be-done",
+      "direction": "source_to_target",
+      "relation_type": "explicit",
+      "explanation": "『무엇을 할 것인가?』는 체르니셰프스키가 자신의 합리적 이기주의와 ‘새로운 인간’을 소설화한 저작이다.",
+      "evidence_summary": "옥스퍼드 케이스북은 도스토옙스키 소설과 체르니셰프스키를 포함한 당대 급진사상의 논쟁 관계를 다룬다.",
+      "material_title": "Fyodor Dostoevsky’s Crime and Punishment",
+      "source_url": "https://academic.oup.com/book/48713",
+      "confidence": "A",
+      "importance": 7,
+      "sources": [
+        {
+          "url": "https://academic.oup.com/book/48713",
+          "title": "Fyodor Dostoevsky’s Crime and Punishment",
+          "publisher": "Oxford University Press",
+          "grade": "A",
+          "support": "『죄와 벌』과 동시대 급진사상의 관계에 관한 전문 연구를 수록한다."
+        }
+      ]
+    },
+    {
+      "id": "e03",
+      "source": "genesis",
+      "target": "crime-and-punishment",
+      "direction": "source_to_target",
+      "relation_type": "citation",
+      "explanation": "소설은 살인 이후의 라스콜니코프를 카인적 범죄자·추방자의 계보에 배치한다.",
+      "evidence_summary": "원문에 카인의 이름이 명시되고, 옥스퍼드 판 편집 자료는 소설의 종교적·신화적 층위를 해설한다.",
+      "material_title": "Crime and Punishment",
+      "source_url": "https://www.gutenberg.org/ebooks/2554",
+      "confidence": "A",
+      "importance": 7,
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/2554",
+          "title": "Crime and Punishment",
+          "publisher": "Project Gutenberg",
+          "grade": "A",
+          "support": "카인에 대한 직접 언급을 포함하는 1차 텍스트다."
+        }
+      ]
+    },
+    {
+      "id": "e05",
+      "source": "revelation",
+      "target": "crime-and-punishment",
+      "direction": "source_to_target",
+      "relation_type": "explicit",
+      "explanation": "포르피리와 라스콜니코프의 대화에 새 예루살렘이 직접 등장해 세속적 유토피아와 종교적 종말론을 충돌시킨다.",
+      "evidence_summary": "『죄와 벌』 원문이 ‘New Jerusalem’을 명시적으로 인용한다.",
+      "material_title": "Crime and Punishment",
+      "source_url": "https://www.gutenberg.org/ebooks/2554",
+      "confidence": "A",
+      "importance": 7,
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/2554",
+          "title": "Crime and Punishment",
+          "publisher": "Project Gutenberg",
+          "grade": "A",
+          "support": "새 예루살렘을 직접 언급하는 1차 텍스트다."
+        }
+      ]
+    },
+    {
+      "id": "e13",
+      "source": "the-overcoat",
+      "target": "natural-school",
+      "direction": "source_to_target",
+      "relation_type": "movement",
+      "explanation": "『외투』의 하급관리·도시빈민 형상은 1840년대 러시아 자연파가 발전시킨 사회적 유형 묘사의 핵심 선례가 되었다.",
+      "evidence_summary": "옥스퍼드 케이스북은 도스토옙스키의 자연파 뿌리와 도시 주제를 강조하고, 인디애나대 출판 연구는 고골에서 도스토옙스키로 이어지는 러시아 사실주의 계보를 제시한다.",
+      "material_title": "Fyodor Dostoevsky’s Crime and Punishment",
+      "source_url": "https://academic.oup.com/book/48713",
+      "confidence": "A",
+      "importance": 7,
+      "sources": [
+        {
+          "url": "https://academic.oup.com/book/48713",
+          "title": "Fyodor Dostoevsky’s Crime and Punishment",
+          "publisher": "Oxford University Press",
+          "grade": "A",
+          "support": "도스토옙스키의 자연파적 뿌리와 도시 주제를 명시한다."
+        },
+        {
+          "url": "https://publish.iupress.indiana.edu/read/introduction-to-russian-realism-pushkin-gogol-dostoevsky-tolstoy-chekhov-sholokhov/section/366bba45-f583-4bba-8872-f9668412e4f6",
+          "title": "Dostoevsky—A Realist in the Higher Sense",
+          "publisher": "Indiana University Press",
+          "grade": "A",
+          "support": "고골과 도스토옙스키를 러시아 사실주의 발전 계보 안에 배치한다."
+        }
+      ]
+    },
+    {
+      "id": "e02",
+      "source": "new-testament",
+      "target": "revelation",
+      "direction": "source_to_target",
+      "relation_type": "citation",
+      "explanation": "요한계시록은 신약 정경의 일부이며 소설의 새 예루살렘 언어가 기대는 직접 경전이다.",
+      "evidence_summary": "소설 원문은 라스콜니코프의 신념을 논하면서 ‘New Jerusalem’을 명시적으로 언급한다.",
+      "material_title": "Crime and Punishment",
+      "source_url": "https://www.gutenberg.org/ebooks/2554",
+      "confidence": "A",
+      "importance": 6,
+      "sources": [
+        {
+          "url": "https://www.gutenberg.org/ebooks/2554",
+          "title": "Crime and Punishment",
+          "publisher": "Project Gutenberg",
+          "grade": "A",
+          "support": "소설 원문의 ‘New Jerusalem’ 명시적 언급을 확인할 수 있다."
+        }
+      ]
+    },
+    {
+      "id": "e08",
+      "source": "schiller",
+      "target": "the-robbers",
+      "direction": "source_to_target",
+      "relation_type": "explicit",
+      "explanation": "『군도』는 실러의 희곡이며 그의 범죄·자유·숭고에 관한 문제의식을 집약한다.",
+      "evidence_summary": "동료심사 논문이 실러의 유산 가운데 『군도』가 『죄와 벌』에 특히 중요했다고 밝힌다.",
+      "material_title": "Schiller’s Motifs in Crime and Punishment by Fyodor Dostoevsky",
+      "source_url": "https://dostmirkult.ru/en/issues/107-no-2-2023/1036-schiller-s-motifs-in-crime-and-punishment-by-fyodor-dostoevsky",
+      "confidence": "A",
+      "importance": 6,
+      "sources": [
+        {
+          "url": "https://dostmirkult.ru/en/issues/107-no-2-2023/1036-schiller-s-motifs-in-crime-and-punishment-by-fyodor-dostoevsky",
+          "title": "Schiller’s Motifs in Crime and Punishment by Fyodor Dostoevsky",
+          "publisher": "Dostoevsky and World Culture",
+          "grade": "A",
+          "support": "『군도』를 소설의 이념적 내용에 특별히 중요한 실러 작품으로 지목한다."
+        }
+      ]
+    },
+    {
+      "id": "e12",
+      "source": "gogol",
+      "target": "the-overcoat",
+      "direction": "source_to_target",
+      "relation_type": "explicit",
+      "explanation": "『외투』는 고골의 대표적 페테르부르크 이야기로 도시 빈민과 관료제의 굴욕을 형상화했다.",
+      "evidence_summary": "옥스퍼드 판 편집 자료는 『죄와 벌』의 제국 수도 묘사를 고골의 작품 전통과 명시적으로 연결한다.",
+      "material_title": "Crime and Punishment: Editorial Material",
+      "source_url": "https://discovery.ucl.ac.uk/id/eprint/10028919/3/Young_OUP_C%26P_Editorial_material.pdf",
+      "confidence": "A",
+      "importance": 5,
+      "sources": [
+        {
+          "url": "https://discovery.ucl.ac.uk/id/eprint/10028919/3/Young_OUP_C%26P_Editorial_material.pdf",
+          "title": "Crime and Punishment: Editorial Material",
+          "publisher": "University College London / Oxford University Press",
+          "grade": "A",
+          "support": "소설의 페테르부르크 표상을 고골의 작품들과 연결한다."
+        }
+      ]
+    },
+    {
+      "id": "e10",
+      "source": "pushkin",
+      "target": "queen-of-spades",
+      "direction": "source_to_target",
+      "relation_type": "explicit",
+      "explanation": "『스페이드의 여왕』은 푸시킨이 쓴 페테르부르크 소설로 계산적 강박과 파국을 다룬다.",
+      "evidence_summary": "UCL의 옥스퍼드 판 편집 자료는 『죄와 벌』의 페테르부르크 전통을 푸시킨 작품군과 연결한다.",
+      "material_title": "Crime and Punishment: Editorial Material",
+      "source_url": "https://discovery.ucl.ac.uk/id/eprint/10028919/3/Young_OUP_C%26P_Editorial_material.pdf",
+      "confidence": "A",
+      "importance": 5,
+      "sources": [
+        {
+          "url": "https://discovery.ucl.ac.uk/id/eprint/10028919/3/Young_OUP_C%26P_Editorial_material.pdf",
+          "title": "Crime and Punishment: Editorial Material",
+          "publisher": "University College London / Oxford University Press",
+          "grade": "A",
+          "support": "『죄와 벌』의 페테르부르크 주제에 대한 푸시킨 계보를 제시한다."
+        }
+      ]
+    },
+    {
+      "id": "e06",
+      "source": "shakespeare",
+      "target": "hamlet",
+      "direction": "source_to_target",
+      "relation_type": "explicit",
+      "explanation": "셰익스피어가 저술한 비극 『햄릿』이 이후 도스토옙스키와의 비교·수용 관계를 매개한다.",
+      "evidence_summary": "동료심사 연구가 셰익스피어와 도스토옙스키 사이에서 『햄릿』의 특별한 지위를 문헌화한다.",
+      "material_title": "The Poetics of Schism: Dostoevsky Translates Hamlet",
+      "source_url": "https://www.mdpi.com/2076-0787/9/3/111",
+      "confidence": "A",
+      "importance": 5,
+      "sources": [
+        {
+          "url": "https://www.mdpi.com/2076-0787/9/3/111",
+          "title": "The Poetics of Schism: Dostoevsky Translates Hamlet",
+          "publisher": "Humanities",
+          "grade": "B",
+          "support": "도스토옙스키의 셰익스피어 수용을 『햄릿』과 번역 행위를 중심으로 추적한다."
+        }
+      ]
+    },
+    {
+      "id": "e19",
+      "source": "what-is-to-be-done",
+      "target": "nihilism",
+      "direction": "source_to_target",
+      "relation_type": "movement",
+      "explanation": "이 소설의 합리적·금욕적 ‘새로운 인간’은 1860년대 러시아 급진주의와 허무주의적 세대 정체성의 대표적 문학 모델이 되었다.",
+      "evidence_summary": "옥스퍼드와 BYU 연구는 체르니셰프스키 계열 급진사상, 합리적 인간관, 러시아 허무주의를 도스토옙스키의 논쟁적 배경으로 설명한다.",
+      "material_title": "Fyodor Dostoevsky’s Crime and Punishment",
+      "source_url": "https://academic.oup.com/book/48713",
+      "confidence": "B",
+      "importance": 8,
+      "sources": [
+        {
+          "url": "https://academic.oup.com/book/48713",
+          "title": "Fyodor Dostoevsky’s Crime and Punishment",
+          "publisher": "Oxford University Press",
+          "grade": "A",
+          "support": "소설과 동시대 급진사상의 철학적 관계를 다룬다."
+        },
+        {
+          "url": "https://byustudies.byu.edu/article/dostoevsky-on-crime-and-revolution-a-study-in-russian-nihilism",
+          "title": "Dostoevsky on Crime and Revolution: A Study in Russian Nihilism",
+          "publisher": "Brigham Young University",
+          "grade": "B",
+          "support": "러시아 허무주의와 도스토옙스키의 문학적 대응을 역사적으로 추적한다."
+        }
+      ]
+    },
+    {
+      "id": "e16",
+      "source": "eugenie-grandet",
+      "target": "crime-and-punishment",
+      "direction": "source_to_target",
+      "relation_type": "adaptation",
+      "explanation": "도스토옙스키가 번역 과정에서 습득한 발자크식 돈·탐욕·도시적 압박의 서사 문법은 『죄와 벌』에서 전당포, 부채, 살인의 경제로 변형된다.",
+      "evidence_summary": "번역 연구는 발자크의 주제와 번역 행위가 도스토옙스키 후기 소설, 특히 『죄와 벌』에 재출현한다고 설명한다.",
+      "material_title": "Dostoevsky as a Translator of Balzac",
+      "source_url": "https://www.degruyterbrill.com/document/doi/10.1515/9781644697801/html",
+      "confidence": "B",
+      "importance": 7,
+      "sources": [
+        {
+          "url": "https://www.degruyterbrill.com/document/doi/10.1515/9781644697801/html",
+          "title": "Dostoevsky as a Translator of Balzac",
+          "publisher": "De Gruyter Brill",
+          "grade": "A",
+          "support": "번역에서 형성된 발자크적 주제와 미학이 『죄와 벌』을 포함한 창작에 지속되었다고 논한다."
+        }
+      ]
+    },
+    {
+      "id": "e28",
+      "source": "existentialism",
+      "target": "the-stranger",
+      "direction": "source_to_target",
+      "relation_type": "movement",
+      "explanation": "『이방인』은 자유, 책임, 죽음, 의미 부재라는 실존주의·부조리 문학의 문제를 소설적 형식으로 집중시킨다.",
+      "evidence_summary": "버지니아대 비교연구는 이 작품을 개인 자유와 무동기적 행위의 20세기 계보에 놓고, 노스웨스턴 연구는 그 계보의 도스토옙스키적 토대를 확인한다.",
+      "material_title": "Freedom and the unmotivated crime in Dostoevsky, Gide and Camus",
+      "source_url": "https://libraetd.lib.virginia.edu/public_view/9306t0595",
+      "confidence": "B",
+      "importance": 7,
+      "sources": [
+        {
+          "url": "https://libraetd.lib.virginia.edu/public_view/9306t0595",
+          "title": "Freedom and the unmotivated crime in Dostoevsky, Gide and Camus",
+          "publisher": "University of Virginia",
+          "grade": "B",
+          "support": "『이방인』을 자유와 무동기적 행위에 대한 실존적 탐구로 분석한다."
+        },
+        {
+          "url": "https://nupress.northwestern.edu/9780810133952/nietzsche-and-dostoevsky/",
+          "title": "Nietzsche and Dostoevsky",
+          "publisher": "Northwestern University Press",
+          "grade": "A",
+          "support": "도스토옙스키가 후대 실존주의 사상의 토대를 마련했다고 설명한다."
+        }
+      ]
+    },
+    {
+      "id": "e07",
+      "source": "hamlet",
+      "target": "crime-and-punishment",
+      "direction": "source_to_target",
+      "relation_type": "adaptation",
+      "explanation": "라스콜니코프의 분열된 자의식과 수행적 광기는 햄릿형 주인공을 범죄소설 안에서 변형한다.",
+      "evidence_summary": "전문 연구는 햄릿과 라스콜니코프의 수행된 광기 및 도스토옙스키의 햄릿 수용을 구체적으로 연결한다.",
+      "material_title": "The Poetics of Schism: Dostoevsky Translates Hamlet",
+      "source_url": "https://www.mdpi.com/2076-0787/9/3/111",
+      "confidence": "B",
+      "importance": 7,
+      "sources": [
+        {
+          "url": "https://www.mdpi.com/2076-0787/9/3/111",
+          "title": "The Poetics of Schism: Dostoevsky Translates Hamlet",
+          "publisher": "Humanities",
+          "grade": "B",
+          "support": "기존 연구를 종합하여 햄릿과 라스콜니코프의 수행적 광기 평행을 명시한다."
+        }
+      ]
+    },
+    {
+      "id": "e11",
+      "source": "queen-of-spades",
+      "target": "crime-and-punishment",
+      "direction": "source_to_target",
+      "relation_type": "adaptation",
+      "explanation": "계산으로 운명과 사회를 돌파하려는 가난한 페테르부르크 청년의 강박과 붕괴가 라스콜니코프 서사에서 윤리적 살인 문제로 확대된다.",
+      "evidence_summary": "옥스퍼드 판 편집 연구와 최근 철학 연구가 푸시킨의 페테르부르크·나폴레옹적 개인 비판이 소설에 이어진다고 설명한다.",
+      "material_title": "Crime and Punishment: Editorial Material",
+      "source_url": "https://discovery.ucl.ac.uk/id/eprint/10028919/3/Young_OUP_C%26P_Editorial_material.pdf",
+      "confidence": "B",
+      "importance": 7,
+      "sources": [
+        {
+          "url": "https://discovery.ucl.ac.uk/id/eprint/10028919/3/Young_OUP_C%26P_Editorial_material.pdf",
+          "title": "Crime and Punishment: Editorial Material",
+          "publisher": "University College London / Oxford University Press",
+          "grade": "A",
+          "support": "소설의 도시 신화가 푸시킨의 페테르부르크 작품들에 의존한다고 설명한다."
+        },
+        {
+          "url": "https://link.springer.com/article/10.1007/s11153-026-09990-8",
+          "title": "Dostoevsky within the problem of evil: influences and reception",
+          "publisher": "Springer Nature",
+          "grade": "A",
+          "support": "푸시킨에서 도스토옙스키로 이어지는 나폴레옹적 원형 비판의 영향 경로를 제시한다."
+        }
+      ]
+    },
+    {
+      "id": "e17",
+      "source": "utilitarianism",
+      "target": "chernyshevsky",
+      "direction": "source_to_target",
+      "relation_type": "ideological",
+      "explanation": "공리주의적 효용 계산은 체르니셰프스키의 합리적 이기주의가 개인과 사회의 이익을 조화시키는 논리적 토대가 되었다.",
+      "evidence_summary": "옥스퍼드 케이스북은 『죄와 벌』과 당대 급진사상의 관계를 다루며, 몽클레어대 자료는 소설 주변의 공리주의·급진주의 논쟁을 정리한다.",
+      "material_title": "Fyodor Dostoevsky’s Crime and Punishment",
+      "source_url": "https://academic.oup.com/book/48713",
+      "confidence": "B",
+      "importance": 7,
+      "sources": [
+        {
+          "url": "https://academic.oup.com/book/48713",
+          "title": "Fyodor Dostoevsky’s Crime and Punishment",
+          "publisher": "Oxford University Press",
+          "grade": "A",
+          "support": "소설과 당대 급진사상의 관계를 독립 장으로 다룬다."
+        },
+        {
+          "url": "https://msuweb.montclair.edu/~nielsenw/crime.html",
+          "title": "Social, Philosophical, and Political Context in Crime and Punishment",
+          "publisher": "Montclair State University",
+          "grade": "B",
+          "support": "『죄와 벌』을 둘러싼 공리주의와 19세기 급진사상의 역사적 맥락을 제공한다."
+        }
+      ]
+    }
+  ]
+}
